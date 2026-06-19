@@ -1,0 +1,10 @@
+.cartao {
+  padding: 16px;
+  border: 1px solid #763491;
+  border-radius: 8px;
+  max-width: 420px;
+  margin: 0 auto 20px auto;
+  background-color: #4d7561;
+}
+.cartao h3 { color: #4a8b8f; margin-top: 0; }
+.cartao .destaque { font-weight: bold; color: #1E2A2E; }
